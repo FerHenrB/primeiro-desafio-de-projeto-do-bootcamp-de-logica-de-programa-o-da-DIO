@@ -1,1 +1,1 @@
-# primeiro-desafio-de-projeto-do-bootcamp-de-logica-de-programa-o-da-DIO
+# Pequeno projeto de classificação de nível de herói em JavaScript, com estruturas de decisão If, Else-If e Else que determinam a mensagem que será dada no terminal, operadores de comparação que verificam o valor de xp para determinar o nível, e um laço de repetição While que aumenta o Xp enquanto o último nível não foi alcançado ainda. Baseado nas condições do desafio de projeto DIO de lógica de programação iniciante.
